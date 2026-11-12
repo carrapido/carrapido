@@ -1,4 +1,4 @@
-## i only make things that i want or things to improve my workflow
+## mostly things for myself and things to improve my workflow
 >ola
 
 <!--
